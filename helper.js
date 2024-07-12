@@ -1,0 +1,1 @@
+export const MongoDBURI = "https://notestalk.onrender.com"
